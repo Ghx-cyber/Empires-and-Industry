@@ -1,1 +1,29 @@
-
+[
+  {
+    "name": "E&I Trade Depot",
+    "cost": 120,
+    "gold": 2,
+    "production": 1,
+    "maintenance": 1,
+    "requiredTech": "Currency"
+  },
+  {
+    "name": "E&I Industrial Works",
+    "cost": 260,
+    "production": 3,
+    "maintenance": 3,
+    "requiredTech": "Industrialization",
+    "requiredBuilding": "Workshop",
+    "percentStatBonus": {
+      "production": 10
+    }
+  },
+  {
+    "name": "E&I Logistics Hub",
+    "cost": 300,
+    "gold": 2,
+    "production": 2,
+    "maintenance": 3,
+    "requiredTech": "Railroads"
+  }
+]
