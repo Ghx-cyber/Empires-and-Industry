@@ -1,1 +1,14 @@
 
+[
+  {
+    "name": "E&I Sanitätsdienst",
+    "unitType": "Civilian",
+    "movement": 2,
+    "cost": 160,
+    "requiredTech": "Biology",
+    "uniques": [
+      "All adjacent units heal [+15] HP when healing"
+    ]
+  }
+]
+
