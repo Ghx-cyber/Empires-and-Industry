@@ -37,7 +37,14 @@
     "percentStatBonus": {
       "gold": 15
     },
-    "requiredBuilding": "E&I Commercial Bank"
+    "requiredBuilding": "E&I Commercial Bank",
+    "uniques": [
+      "[+10]% Yield from every [E&I Quarry]",
+      "[+10]% Yield from every [E&I Foundry]",
+      "[+10]% Yield from every [E&I Steamworks]",
+      "[+10]% Yield from every [E&I Machine Factory]",
+      "[+10]% Yield from every [E&I Industrial Works]"
+    ]
   },
   {
     "name": "E&I Quarry",
@@ -79,7 +86,11 @@
     "percentStatBonus": {
       "production": 10
     },
-    "requiredBuilding": "E&I Steamworks"
+    "requiredBuilding": "E&I Steamworks",
+    "uniques": [
+      "[+10]% Yield from every [E&I Logistics Hub]",
+      "[+10]% Yield from every [E&I Freight Terminal]"
+    ]
   },
   {
     "name": "E&I Industrial Works",
@@ -107,6 +118,12 @@
     "production": 4,
     "maintenance": 4,
     "requiredTech": "Combustion",
-    "requiredBuilding": "E&I Logistics Hub"
+    "requiredBuilding": "E&I Logistics Hub",
+    "uniques": [
+      "[+10]% Yield from every [E&I Trade Depot]",
+      "[+10]% Yield from every [E&I Guild Hall]",
+      "[+10]% Yield from every [E&I Commercial Bank]",
+      "[+10]% Yield from every [E&I Stock Exchange]"
+    ]
   }
 ]
