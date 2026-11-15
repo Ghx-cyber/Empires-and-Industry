@@ -35,7 +35,7 @@
     "maintenance": 3,
     "requiredTech": "Electricity",
     "percentStatBonus": {
-      "gold": 10
+      "gold": 15
     },
     "requiredBuilding": "E&I Commercial Bank"
   },
@@ -77,7 +77,7 @@
     "maintenance": 4,
     "requiredTech": "Replaceable Parts",
     "percentStatBonus": {
-      "production": 5
+      "production": 10
     },
     "requiredBuilding": "E&I Steamworks"
   },
@@ -103,8 +103,8 @@
   {
     "name": "E&I Freight Terminal",
     "cost": 420,
-    "gold": 3,
-    "production": 3,
+    "gold": 4,
+    "production": 4,
     "maintenance": 4,
     "requiredTech": "Combustion",
     "requiredBuilding": "E&I Logistics Hub"
