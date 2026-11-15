@@ -26,5 +26,52 @@
     "production": 2,
     "maintenance": 3,
     "requiredTech": "Railroads"
+  },
+  {
+    "name": "E&I Quarry",
+    "cost": 140,
+    "production": 1,
+    "gold": 1,
+    "maintenance": 1,
+    "requiredTech": "Construction"
+  },
+  {
+    "name": "E&I Foundry",
+    "cost": 200,
+    "production": 2,
+    "maintenance": 2,
+    "requiredTech": "Metal Casting",
+    "percentStatBonus": {
+      "production": 10
+    }
+  },
+  {
+    "name": "E&I Guild Hall",
+    "cost": 210,
+    "gold": 2,
+    "culture": 1,
+    "maintenance": 2,
+    "requiredTech": "Guilds"
+  },
+  {
+    "name": "E&I Commercial Bank",
+    "cost": 260,
+    "gold": 3,
+    "maintenance": 2,
+    "requiredTech": "Banking",
+    "percentStatBonus": {
+      "gold": 10
+    }
+  },
+  {
+    "name": "E&I Steamworks",
+    "cost": 330,
+    "production": 3,
+    "gold": 1,
+    "maintenance": 3,
+    "requiredTech": "Steam Power",
+    "percentStatBonus": {
+      "production": 10
+    }
   }
 ]
